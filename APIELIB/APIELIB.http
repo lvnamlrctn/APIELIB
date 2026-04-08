@@ -1,0 +1,6 @@
+@APIELIB_HostAddress = http://localhost:5012
+
+GET {{APIELIB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
